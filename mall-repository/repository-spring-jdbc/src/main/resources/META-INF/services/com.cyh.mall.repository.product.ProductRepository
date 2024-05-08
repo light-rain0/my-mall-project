@@ -1,1 +1,1 @@
-com.cyh.mall.repository.SpringJdbcProductRepository
+com.cyh.mall.repository.product.SpringJdbcProductRepository

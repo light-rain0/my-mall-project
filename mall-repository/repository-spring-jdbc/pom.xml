@@ -19,6 +19,11 @@
 
     <dependencies>
         <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-jdbc</artifactId>
+            <version>6.1.6</version>
+        </dependency>
+        <dependency>
             <groupId>com.cyh</groupId>
             <artifactId>repository-api</artifactId>
             <version>1.0-SNAPSHOT</version>

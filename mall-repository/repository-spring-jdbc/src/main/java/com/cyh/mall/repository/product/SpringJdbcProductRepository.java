@@ -1,7 +1,6 @@
-package com.cyh.mall.repository;
+package com.cyh.mall.repository.product;
 
 import com.cyh.mall.repository.data.product.Product;
-import com.cyh.mall.repository.product.ProductRepository;
 
 import java.util.Optional;
 
